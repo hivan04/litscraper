@@ -7,7 +7,7 @@ from urllib.parse import quote_plus
 
 def get_scholar_results(author_query, max_results=3):
     """Search Google Scholar for articles by a specific author"""
-    base_url = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q="
+    base_url = "https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=financial+literacy&btnG="
     query = quote_plus(author_query)
     url = base_url + query
     
@@ -82,7 +82,7 @@ def main():
         all_results.extend(results)
         
         # Random delay to avoid being blocked (3-10 seconds)
-        delay = random.uniform(3, 10)
+        delay = random.uniform(3, 30)
         time.sleep(delay)
     
     # Save results
