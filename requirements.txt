@@ -1,0 +1,16 @@
+# For artscraper.py
+requests
+random
+time
+pandas
+re
+datetime
+
+# For litscraper.py
+cv 
+pytesseract
+numpy
+tkinter
+pathlib
+sys
+os

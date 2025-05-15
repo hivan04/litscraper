@@ -1,0 +1,66 @@
+Author Query: Agarwal et al. (2010) sample 1
+Title: A reliable effective terascale linear learning system
+Link: https://www.jmlr.org/papers/volume15/agarwal14a/agarwal14a.pdf
+Citation: A Agarwal, O Chapelle, M Dudík, J Langford - The Journal of Machine …, 2014 - jmlr.org
+--------------------------------------------------------------------------------
+
+Author Query: Agarwal et al. (2010) sample 1
+Title: Diagnostic performance of various tests and criteria employed in allergic bronchopulmonary aspergillosis: a latent class analysis
+Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061105
+Citation: R Agarwal, D Maskey, AN Aggarwal, B Saikia, M Garg… - PloS one, 2013 - journals.plos.org
+--------------------------------------------------------------------------------
+
+Author Query: Agarwal et al. (2010) sample 1
+Title: Knowledge spillovers and strategic entrepreneurship
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.96
+Citation: R Agarwal, D Audretsch… - Strategic entrepreneurship …, 2010 - Wiley Online Library
+--------------------------------------------------------------------------------
+
+Author Query: Agarwal et al. (2010) sample 2
+Title: A reliable effective terascale linear learning system
+Link: https://www.jmlr.org/papers/volume15/agarwal14a/agarwal14a.pdf
+Citation: A Agarwal, O Chapelle, M Dudík, J Langford - The Journal of Machine …, 2014 - jmlr.org
+--------------------------------------------------------------------------------
+
+Author Query: Agarwal et al. (2010) sample 2
+Title: Role of noninvasive ventilation in acute lung injury/acute respiratory distress syndrome: a proportion meta-analysis
+Link: https://www.liebertpub.com/doi/abs/10.4187/respcare.10551653
+Citation: R Agarwal, AN Aggarwal, D Gupta - Respiratory care, 2010 - liebertpub.com
+--------------------------------------------------------------------------------
+
+Author Query: Agarwal et al. (2010) sample 2
+Title: Knowledge spillovers and strategic entrepreneurship
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.96
+Citation: R Agarwal, D Audretsch… - Strategic entrepreneurship …, 2010 - Wiley Online Library
+--------------------------------------------------------------------------------
+
+Author Query: Bauer et al (2011)
+Title: Culture and the prevalence of hallucinations in schizophrenia
+Link: https://www.sciencedirect.com/science/article/pii/S0010440X10000787
+Citation: SM Bauer, H Schanda, H Karakula… - Comprehensive …, 2011 - Elsevier
+--------------------------------------------------------------------------------
+
+Author Query: Bauer et al (2011)
+Title: The ALPS project release 2.0: open source software for strongly correlated systems
+Link: https://iopscience.iop.org/article/10.1088/1742-5468/2011/05/P05001/meta
+Citation: B Bauer, LD Carr, HG Evertz, A Feiguin… - Journal of Statistical …, 2011 - iopscience.iop.org
+--------------------------------------------------------------------------------
+
+Author Query: Bauer et al (2011)
+Title: Clostridium difficile infection in Europe: a hospital-based survey
+Link: https://www.thelancet.com/article/S0140-6736(10)61266-4/abstract
+Citation: MP Bauer, DW Notermans, BHB Van Benthem… - The Lancet, 2011 - thelancet.com
+--------------------------------------------------------------------------------
+
+Author Query: Bayer, Bernheim, and Scholz (2009)
+Title: The effects of financial education in the workplace: Evidence from a survey of employers
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.2008.00156.x
+Citation: PJ Bayer, BD Bernheim, JK Scholz - Economic Inquiry, 2009 - Wiley Online Library
+--------------------------------------------------------------------------------
+
+Author Query: Bell, Gorin and Hogarth (2009)
+Title: Does Financial Education Affect Soldiers' Financial Behavior?
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1445635
+Citation: CJ Bell, DR Gorin, JM Hogarth - Networks Financial Institute …, 2009 - papers.ssrn.com
+--------------------------------------------------------------------------------
+
