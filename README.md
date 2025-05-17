@@ -1,4 +1,4 @@
-# Literature Scraper📜
+# Literature Scraper 📜
 An ongoing project to improve the streamline of literature scraping for meta-analysis. Currently in the development stage! <br>
 
 *Please come back another time for more information.*
