@@ -1,5 +1,7 @@
-# litscraper
-A literature scraper to help me with an internship
+# Literature Scraper
+An ongoing project to improve the streamline of literature scraping for meta-analysis. Currently in the development stage! <br>
 
+*Please come back another time for more information.*
 
-- Max 60 article scrapes at a time 
+#### Tips when utilising the scraper
+- Have a maximum of 60 article scrapes at a time to prevent being blocked by the DB <br>
