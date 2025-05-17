@@ -1,66 +1,287 @@
-Author Query: Agarwal et al. (2010) sample 1
-Title: A reliable effective terascale linear learning system
-Link: https://www.jmlr.org/papers/volume15/agarwal14a/agarwal14a.pdf
-Citation: A Agarwal, O Chapelle, M Dudík, J Langford - The Journal of Machine …, 2014 - jmlr.org
+Author Query: Alessie, van Rooij and Lusardi (2011)
+Title: Financial literacy and retirement preparation in the Netherlands
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/financial-literacy-and-retirement-preparation-in-the-netherlands/04B5763C37D2B2B03D8B3B600FC71C42
+Citation: R Alessie, M Van Rooij, A Lusardi - Journal of Pension Economics & …, 2011 - cambridge.org
+Year: 2011
 --------------------------------------------------------------------------------
 
-Author Query: Agarwal et al. (2010) sample 1
-Title: Diagnostic performance of various tests and criteria employed in allergic bronchopulmonary aspergillosis: a latent class analysis
-Link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0061105
-Citation: R Agarwal, D Maskey, AN Aggarwal, B Saikia, M Garg… - PloS one, 2013 - journals.plos.org
+Author Query: Alessie, van Rooij and Lusardi (2011)
+Title: Financial literacy and stock market participation
+Link: https://www.sciencedirect.com/science/article/pii/S0304405X11000717
+Citation: M Van Rooij, A Lusardi, R Alessie - Journal of Financial economics, 2011 - Elsevier
+Year: 2011
 --------------------------------------------------------------------------------
 
-Author Query: Agarwal et al. (2010) sample 1
-Title: Knowledge spillovers and strategic entrepreneurship
-Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.96
-Citation: R Agarwal, D Audretsch… - Strategic entrepreneurship …, 2010 - Wiley Online Library
+Author Query: Alessie, van Rooij and Lusardi (2011)
+Title: Financial literacy and retirement planning in the Netherlands
+Link: https://www.sciencedirect.com/science/article/pii/S0167487011000195
+Citation: MCJ Van Rooij, A Lusardi, RJM Alessie - Journal of economic psychology, 2011 - Elsevier
+Year: 2011
 --------------------------------------------------------------------------------
 
-Author Query: Agarwal et al. (2010) sample 2
-Title: A reliable effective terascale linear learning system
-Link: https://www.jmlr.org/papers/volume15/agarwal14a/agarwal14a.pdf
-Citation: A Agarwal, O Chapelle, M Dudík, J Langford - The Journal of Machine …, 2014 - jmlr.org
+Author Query: Behrman, Mitchell, Soo and Bravo (2010)
+Title: How financial literacy affects household wealth accumulation
+Link: https://www.aeaweb.org/articles?id=10.1257/aer.102.3.300
+Citation: JR Behrman, OS Mitchell, CK Soo… - American Economic …, 2012 - aeaweb.org
+Year: 2012
 --------------------------------------------------------------------------------
 
-Author Query: Agarwal et al. (2010) sample 2
-Title: Role of noninvasive ventilation in acute lung injury/acute respiratory distress syndrome: a proportion meta-analysis
-Link: https://www.liebertpub.com/doi/abs/10.4187/respcare.10551653
-Citation: R Agarwal, AN Aggarwal, D Gupta - Respiratory care, 2010 - liebertpub.com
+Author Query: Bucher-Koenen and Lusardi (2011)
+Title: Financial literacy and retirement planning in Germany
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/financial-literacy-and-retirement-planning-in-germany/7FB419D3977D78EFB57F6BD851E10060
+Citation: T Bucher-Koenen, A Lusardi - Journal of Pension Economics & …, 2011 - cambridge.org
+Year: 2011
 --------------------------------------------------------------------------------
 
-Author Query: Agarwal et al. (2010) sample 2
-Title: Knowledge spillovers and strategic entrepreneurship
-Link: https://onlinelibrary.wiley.com/doi/abs/10.1002/sej.96
-Citation: R Agarwal, D Audretsch… - Strategic entrepreneurship …, 2010 - Wiley Online Library
+Author Query: Calcagno and Monticone (2011)
+Title: Financial literacy and the demand for financial advice
+Link: https://www.sciencedirect.com/science/article/pii/S037842661400096X
+Citation: R Calcagno, C Monticone - Journal of Banking & Finance, 2015 - Elsevier
+Year: 2015
 --------------------------------------------------------------------------------
 
-Author Query: Bauer et al (2011)
-Title: Culture and the prevalence of hallucinations in schizophrenia
-Link: https://www.sciencedirect.com/science/article/pii/S0010440X10000787
-Citation: SM Bauer, H Schanda, H Karakula… - Comprehensive …, 2011 - Elsevier
+Author Query: Calcagno and Monticone (2011)
+Title: Financial Literacy and Financial Advice
+Link: https://netspar.nl/wp-content/uploads/007_PhD_Chiara_Monticone.pdf
+Citation: C Monticone - Universita degli Studi di Torino, 2010 - netspar.nl
+Year: 2010
 --------------------------------------------------------------------------------
 
-Author Query: Bauer et al (2011)
-Title: The ALPS project release 2.0: open source software for strongly correlated systems
-Link: https://iopscience.iop.org/article/10.1088/1742-5468/2011/05/P05001/meta
-Citation: B Bauer, LD Carr, HG Evertz, A Feiguin… - Journal of Statistical …, 2011 - iopscience.iop.org
+Author Query: Calcagno and Monticone (2011)
+Title: Alfabetizzazione finanziaria dei microimprenditori e accesso al credito= Financial literacy of micro-entrepreneurs and access to credit
+Link: https://air.unimi.it/handle/2434/1067088
+Citation: R Calcagno, PF Russo, L Galotto, A Quas - QUESTIONI DI ECONOMIA …, 2024 - air.unimi.it
+Year: 2024
 --------------------------------------------------------------------------------
 
-Author Query: Bauer et al (2011)
-Title: Clostridium difficile infection in Europe: a hospital-based survey
-Link: https://www.thelancet.com/article/S0140-6736(10)61266-4/abstract
-Citation: MP Bauer, DW Notermans, BHB Van Benthem… - The Lancet, 2011 - thelancet.com
+Author Query: Disney and Gathergood (2011)
+Title: Financial literacy and indebtedness: new evidence for UK consumers
+Link: https://www.nottingham.ac.uk/cfcm/documents/papers/11-05.pdf
+Citation: R Disney, J Gathergood - The University of Nottingham, 2011 - nottingham.ac.uk
+Year: 2011
 --------------------------------------------------------------------------------
 
-Author Query: Bayer, Bernheim, and Scholz (2009)
-Title: The effects of financial education in the workplace: Evidence from a survey of employers
-Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1465-7295.2008.00156.x
-Citation: PJ Bayer, BD Bernheim, JK Scholz - Economic Inquiry, 2009 - Wiley Online Library
+Author Query: Disney and Gathergood (2011)
+Title: Financial literacy and indebtedness: New evidence for UK consumers
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1851343
+Citation: J Gathergood, RF Disney - Available at SSRN 1851343, 2011 - papers.ssrn.com
+Year: 1851
 --------------------------------------------------------------------------------
 
-Author Query: Bell, Gorin and Hogarth (2009)
-Title: Does Financial Education Affect Soldiers' Financial Behavior?
-Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1445635
-Citation: CJ Bell, DR Gorin, JM Hogarth - Networks Financial Institute …, 2009 - papers.ssrn.com
+Author Query: Duca and Kumar (2012)
+Title: Financial literacy and mortgage equity withdrawals
+Link: https://www.sciencedirect.com/science/article/pii/S0094119013000600
+Citation: JV Duca, A Kumar - Journal of Urban Economics, 2014 - Elsevier
+Year: 2014
+--------------------------------------------------------------------------------
+
+Author Query: Duca and Kumar (2012)
+Title: Islamic Financial Literacy And Financial Inclusion: Examining The Intervening Role Of Financial Self-Efficacy
+Link: https://journal.umy.ac.id/index.php/ijief/article/view/16384
+Citation: M Muslichah, YHS Putra, R Abdullah… - International Journal of …, 2023 - journal.umy.ac.id
+Year: 2023
+--------------------------------------------------------------------------------
+
+Author Query: Duca and Kumar (2012)
+Title: Repayment in microfinance: The role of financial literacy and caste
+Link: https://ifrogs.org/PDF/CONF_2014/Barua_Sane_2014.pdf
+Citation: R Barua, R Sane - Discussion papers in Economics, 2014 - ifrogs.org
+Year: 2014
+--------------------------------------------------------------------------------
+
+Author Query: Fomero and Monticone (2011) sample 1
+Title: Actual and self-assessed financial literacy among employees of a South African university
+Link: https://digitalcommons.usf.edu/numeracy/vol12/iss1/art11/
+Citation: GD Willows - Numeracy, 2019 - digitalcommons.usf.edu
+Year: 2019
+--------------------------------------------------------------------------------
+
+Author Query: Fomero and Monticone (2011) sample 1
+Title: Math Calculation and Financial Literacy: The Incidence of Geometric Progressions in the Calculation of Financial Interest
+Link: https://www.mdpi.com/1911-8074/17/8/330
+Citation: E Moreno-García - Journal of Risk and Financial Management, 2024 - mdpi.com
+Year: 2024
+--------------------------------------------------------------------------------
+
+Author Query: Fomero and Monticone (2011) sample 1
+Title: The Influence of Financial Literacy on Employee Retirement Preparedness
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5062680
+Citation: C Dhewa, WG Bonga, T Mudondo… - … Journals' Journal of …, 2024 - papers.ssrn.com
+Year: 2024
+--------------------------------------------------------------------------------
+
+Author Query: Jappelli and Padula (2011) sample 1
+Title: Investment in financial literacy and saving decisions
+Link: https://www.sciencedirect.com/science/article/pii/S0378426613001623
+Citation: T Jappelli, M Padula - Journal of Banking & Finance, 2013 - Elsevier
+Year: 2013
+--------------------------------------------------------------------------------
+
+Author Query: Jappelli and Padula (2011) sample 1
+Title: Investment in financial literacy, social security, and portfolio choice
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/investment-in-financial-literacy-social-security-and-portfolio-choice/4E4AA02CEDD768AFC673142DD1915106
+Citation: T Jappelli, M Padula - Journal of Pension Economics & Finance, 2015 - cambridge.org
+Year: 2015
+--------------------------------------------------------------------------------
+
+Author Query: Jappelli and Padula (2011) sample 1
+Title: Consumption growth, the interest rate, and financial literacy
+Link: http://www.csef.it/WP/wp329.pdf
+Citation: T Jappelli, M Padula - 2013 - csef.it
+Year: 2013
+--------------------------------------------------------------------------------
+
+Author Query: Kimball and Shumway (2007)
+Title: Investor sophistication and the home bias, diversification, and employer stock puzzles
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1572866
+Citation: MS Kimball, T Shumway - Diversification, and Employer Stock …, 2010 - papers.ssrn.com
+Year: 2010
+--------------------------------------------------------------------------------
+
+Author Query: Kimball and Shumway (2007)
+Title: Annuities, financial literacy, and information overload
+Link: https://books.google.com/books?hl=en&lr=&id=wH5DCC4JdwMC&oi=fnd&pg=PA158&dq=Kimball+and+Shumway+(2007)+financial+literacy&ots=7-Y1iUP2Fq&sig=JERc6Rv3HUhOLq5a2cfWCoXx32g
+Citation: J Agnew, L Szykman - Financial Literacy: Implications for …, 2011 - books.google.com
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Kimball and Shumway (2007)
+Title: Financial literacy, portfolio choice and financial well-being
+Link: https://link.springer.com/article/10.1007/s11205-016-1309-2
+Citation: Z Chu, Z Wang, JJ Xiao, W Zhang - Social indicators research, 2017 - Springer
+Year: 2017
+--------------------------------------------------------------------------------
+
+Author Query: Klapper, Lusardi, and Panos (2011)
+Title: Financial literacy and the financial crisis: Evidence from Russia
+Link: https://www.academia.edu/download/29531435/lusardi.pdf
+Citation: LF Klapper, A Lusardi, GA Panos - Available at SSRN 1786826, 2011 - academia.edu
+Year: 1786
+--------------------------------------------------------------------------------
+
+Author Query: Klapper, Lusardi, and Panos (2011)
+Title: Financial literacy in view of the financial crisis: evidence from Russia
+Link: https://extranet.sioe.org/uploads/isnie2011/klapper_lusardi_panos.pdf
+Citation: LF Klapper, A Lusardi, GA Panos - 2011 - extranet.sioe.org
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Kotlikoff and Bernheim (2001)
+Title: The mismatch between life insurance holdings and financial vulnerabilities: evidence from the Health and Retirement Study
+Link: https://pubs.aeaweb.org/doi/abs/10.1257/000282803321455340
+Citation: BD Bernheim, L Forni, J Gokhale… - American Economic …, 2003 - pubs.aeaweb.org
+Year: 2003
+--------------------------------------------------------------------------------
+
+Author Query: Kotlikoff and Bernheim (2001)
+Title: The mismatch between life insurance holdings and financial vulnerabilities: evidence from the Survey of Consumer Finances
+Link: https://www.nber.org/papers/w8544
+Citation: BD Bernheim, K Carman, JJ Gokhale, LJ Kotlikoff - 2001 - nber.org
+Year: 2001
+--------------------------------------------------------------------------------
+
+Author Query: Kotlikoff and Bernheim (2001)
+Title: Measuring financial literacy
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6606.2010.01170.x
+Citation: SJ Huston - Journal of consumer affairs, 2010 - Wiley Online Library
+Year: 2010
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchell (2007a)
+Title: Planning and financial literacy: How do women fare?
+Link: https://pubs.aeaweb.org/doi/abs/10.1257/aer.98.2.413
+Citation: A Lusardi, OS Mitchell - American economic review, 2008 - pubs.aeaweb.org
+Year: 2008
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchell (2007a)
+Title: Financial literacy around the world: an overview
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/financial-literacy-around-the-world-an-overview/0488F901318E0FBC4C92DC6E964AB89C
+Citation: A Lusardi, OS Mitchell - Journal of pension economics & finance, 2011 - cambridge.org
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchell (2007a)
+Title: Financial literacy: Evidence and implications for financial education
+Link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d4ebf1df4093b11fa396f0b8c37dbf7b75fb00f4
+Citation: A Lusardi, OS Mitchell - Trends and issues, 2009 - Citeseer
+Year: 2009
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchell (2009)
+Title: Financial literacy and financial sophistication among older Americans
+Link: https://www.nber.org/papers/w15469
+Citation: A Lusardi, OS Mitchell, V Curto - 2009 - nber.org
+Year: 2009
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchel (2011)
+Title: The outlook for financial literacy
+Link: https://www.nber.org/papers/w17077
+Citation: A Lusardi, OS Mitchell - 2011 - nber.org
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Lusardi and Mitchel (2011)
+Title: Financial literacy around the world: An overview
+Link: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=c0b75285ba967926ff332b56046e7f23a0e1c92a
+Citation: OS Mitchell, A Lusardi - Journal of Pension Economics and Finance, 2011 - Citeseer
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Monticone (2010a)
+Title: How much does wealth matter in the acquisition of financial literacy?
+Link: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-6606.2010.01175.x
+Citation: C Monticone - Journal of Consumer Affairs, 2010 - Wiley Online Library
+Year: 2010
+--------------------------------------------------------------------------------
+
+Author Query: Mullock and Turcotte (2012)
+Title: MODELING A FRAMEWORK ON FINANCIAL LITERACY AND RETIREMENT PREPAREDNESS IN THE INFORMAL SECTOR OF CAMEROON CENTRE …
+Link: https://www.researchgate.net/profile/Nchise-Nchang/publication/340539515_MODELING_A_FRAMEWORK_ON_FINANCIAL_LITERACY_AND_RETIREMENT_PREPAREDNESS_IN_THE_INFORMAL_SECTOR_OF_CAMEROON_CENTRE_REGION/links/5e8f6c63299bf130798d9698/MODELING-A-FRAMEWORK-ON-FINANCIAL-LITERACY-AND-RETIREMENT-PREPAREDNESS-IN-THE-INFORMAL-SECTOR-OF-CAMEROON-CENTRE-REGION.pdf
+Citation: ND Nchang, AVN Isoh - 2021 - researchgate.net
+Year: 2021
+--------------------------------------------------------------------------------
+
+Author Query: Mullock and Turcotte (2012)
+Title: Financial literacy and retirement planning in Canada
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/financial-literacy-and-retirement-planning-in-canada/E59825F86EB788347EBAFB0892151ECD
+Citation: D Boisclair, A Lusardi, PC Michaud - Journal of pension economics & …, 2017 - cambridge.org
+Year: 2017
+--------------------------------------------------------------------------------
+
+Author Query: Mullock and Turcotte (2012)
+Title: Effect of financial literacy on retirement preparedness among employees in the insurance sector in Kenya
+Link: https://www.academia.edu/download/104632173/38520.pdf
+Citation: E Aluodi, A Njuguna, B Omboi - 2017 - academia.edu
+Year: 2017
+--------------------------------------------------------------------------------
+
+Author Query: Sekita (2011)
+Title: Financial literacy and retirement planning in Japan
+Link: https://www.cambridge.org/core/journals/journal-of-pension-economics-and-finance/article/financial-literacy-and-retirement-planning-in-japan/081F790F87F1BA54D47707BF23635F2D
+Citation: S Sekita - Journal of Pension Economics & Finance, 2011 - cambridge.org
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: van Rooij, Lusardi and Alessie (2008)
+Title: Financial literacy, retirement planning and household wealth
+Link: https://academic.oup.com/ej/article-abstract/122/560/449/5079981
+Citation: MCJ Van Rooij, A Lusardi, RJM Alessie - The Economic Journal, 2012 - academic.oup.com
+Year: 2012
+--------------------------------------------------------------------------------
+
+Author Query: Yoong (2010)
+Title: Financial illiteracy and stock market participation: Evidence from the RAND American Life Panel
+Link: https://books.google.com/books?hl=en&lr=&id=wH5DCC4JdwMC&oi=fnd&pg=PA76&dq=Yoong+(2010)+financial+literacy&ots=7-Y1iUP3Hq&sig=ra9TKydaNkN_Cwb_mIhcTbJKfao
+Citation: J Yoong - Financial literacy: Implications for retirement security …, 2011 - books.google.com
+Year: 2011
+--------------------------------------------------------------------------------
+
+Author Query: Zanghieri (2013)
+Title: Participation to Pension Funds in Italy: The Role of Expectations and Financial Literacy
+Link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259758
+Citation: P Zanghieri - Available at SSRN 2259758, 2013 - papers.ssrn.com
+Year: 2259
 --------------------------------------------------------------------------------
 
